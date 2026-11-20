@@ -1,0 +1,13 @@
+Key Topics Covered:
+    scripts and modules.
+    concept of moduling.
+    ./ in require.
+    module.exports.
+    passing 2 functions with module.exports.
+    require ->  Nodejs.
+    exports.add.
+    difference between module.exports and exports.add.
+    passing arrow functions with exports.add.
+    http.
+    fs.
+    crypto.

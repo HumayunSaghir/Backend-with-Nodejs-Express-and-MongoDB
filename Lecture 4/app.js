@@ -1,0 +1,7 @@
+const fn = require("./source")
+// console.log(fn(10, 10))
+// console.log(fn(10, 10))
+// console.log(fn.add(10, 10))
+// console.log(fn.sub(10, 10))
+// console.log(fn)
+// fn.greet()
