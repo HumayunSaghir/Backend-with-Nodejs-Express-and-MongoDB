@@ -1,0 +1,5 @@
+Key Topics Covered:
+    Nodejs Long Term Support.
+    Nodejs Short Term Support.
+    Nodejs Versions.
+    Entering into Node Environment.
