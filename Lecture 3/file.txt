@@ -1,0 +1,9 @@
+Key Topics Covered:
+    Node with js extensions.
+    Window object.
+    No window object or alert functionality outside brower.
+    Backend side functionalities are needed.
+    Package.json file.
+    Normal scripts.
+    Start scripts.
+    Test scripts.
