@@ -1,1 +1,7 @@
-Lecture is theoretical
+Key Topics Covered:
+    What is Nodejs?
+    Who created it and how?
+    Talking with native machines with the help of c++.
+    V8 Engine.
+    Apple JS Engine.
+    Spider Monkey.
