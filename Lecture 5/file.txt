@@ -1,0 +1,12 @@
+Key Topics Covered:
+    creating file in sync way.
+    creating file in async way.
+    reading file in sync way.
+    reading file in async way.
+    appending file in sync way.
+    appending file in async way.
+    copying file in sync way.
+    deleting file in sync way.
+    reading properties of file.
+    creating a new directory.
+    fs module.
