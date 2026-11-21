@@ -1,0 +1,8 @@
+new req recieved at / by method GET
+new req recieved at /favicon.ico by method GET
+new req recieved at / by method GET
+new req recieved at /favicon.ico by method GET
+new req recieved at /about by method GET
+new req recieved at /favicon.ico by method GET
+new req recieved at /contact by method GET
+new req recieved at /favicon.ico by method GET
